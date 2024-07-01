@@ -135,7 +135,6 @@ h4 {
 }
 
 #portfolio {
-    background: url(assets/square_bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -241,7 +240,7 @@ h4 {
 footer {
     padding: 30px 20px;
     background-color: var(--secondary);
-    background-image: url(assets/Footer.png);
+    background-image: url(Footer.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: top center;
